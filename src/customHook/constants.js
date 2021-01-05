@@ -1,0 +1,4 @@
+export const JOB_GET_REQUEST = 'JOB_GET_REQUEST'
+export const JOB_GET_SUCCESS = 'JOB_GET_SUCCESS'
+export const JOB_GET_FAIL = 'JOB_GET_FAIL'
+export const JOB_GET_HAS_NEXT_PAGE = 'JOB_GET_HAS_NEXT_PAGE'
