@@ -4,7 +4,7 @@
 /build
 .eslintcache
 .firebaserc
-.firebase.json
+firebase.json
 
 # dependencies
 /node_modules
